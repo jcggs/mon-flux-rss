@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Chaos Reign - Flux Personnalisé</title>
+    <link>https://chaosreign.fr</link>
+    <description>Suivi de l'actualité cinéma Chaos Reign.</description>
+    <lastBuildDate>Sun, 02 Aug 2026 16:14:43 GMT</lastBuildDate>
+    <item>
+        <title><![CDATA[Chaos Reign - Flux en attente]]></title>
+        <link>https://chaosreign.fr</link>
+        <description><![CDATA[Le site est temporairement inaccessible pour le robot. Vérification automatique au prochain cycle.]]></description>
+        <guid isPermaLink="true">https://chaosreign.fr</guid>
+    </item>
+</channel>
+</rss>
