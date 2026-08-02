@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>Télérama Cinéma - 100% Gratuit</title>
-    <link>https://telerama.fr</link>
-    <description>Flux filtré sans aucun article payant.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 19:37:36 GMT</lastBuildDate>
+    <title>Télérama - L'Offre Gratuite</title>
+    <link>https://www.telerama.fr</link>
+    <description>Le flux de la Une filtré sans aucun article payant.</description>
+    <lastBuildDate>Sun, 02 Aug 2026 20:06:42 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[Télérama - Aucun nouvel article gratuit]]></title>
-        <link>https://telerama.fr</link>
-        <description><![CDATA[Tous les articles récents sont réservés aux abonnés.]]></description>
-        <guid isPermaLink="true">https://telerama.fr</guid>
+        <title><![CDATA[Télérama - En attente d'articles gratuits]]></title>
+        <link>https://www.telerama.fr</link>
+        <description><![CDATA[Aucun article en libre accès disponible dans le flux global à cet instant.]]></description>
+        <guid isPermaLink="true">https://www.telerama.fr</guid>
     </item>
 </channel>
 </rss>
