@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>Sud Ouest - 100% Gratuit</title>
-    <link>https://sudouest.fr</link>
-    <description>Fil d'actualité Sud Ouest filtré sans articles abonnés.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 20:14:32 GMT</lastBuildDate>
+    <title>Sud Ouest - Landes &amp; Mont-de-Marsan</title>
+    <link>https://sudouest.frlandes/</link>
+    <description>Actualités locales filtrées 100% gratuites.</description>
+    <lastBuildDate>Sun, 02 Aug 2026 20:19:18 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[Sud Ouest - En attente d'articles gratuits]]></title>
-        <link>https://sudouest.fr</link>
-        <description><![CDATA[Aucun article en libre accès disponible dans le flux actuel.]]></description>
-        <guid isPermaLink="true">https://sudouest.fr</guid>
+        <title><![CDATA[Sud Ouest Landes - En attente d'articles gratuits]]></title>
+        <link>https://sudouest.frlandes/</link>
+        <description><![CDATA[Aucun article local en libre accès disponible à cet instant précis.]]></description>
+        <guid isPermaLink="true">https://sudouest.frlandes/</guid>
     </item>
 </channel>
 </rss>
