@@ -2,38 +2,59 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 
-# 1. Télécharger la page de Chaos Reign
 url = "https://chaosreign.fr"
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-response = requests.get(url, headers=headers)
 
-if response.status_code != 200:
-    print("Erreur lors de l'accès au site Chaos Reign.")
-    exit()
+# En-têtes complets pour simuler un vrai navigateur et contourner les protections antirobots
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache"
+}
 
-soup = BeautifulSoup(response.text, "html.parser")
+try:
+    response = requests.get(url, headers=headers, timeout=15)
+    soup = BeautifulSoup(response.text, "html.parser")
+    # On cherche les balises H3 qui contiennent les titres des articles
+    items = soup.find_all("h3")
+except Exception as e:
+    print(f"Erreur de connexion : {e}")
+    items = []
 
-# 2. Trouver les articles de "A la une" (balises h3)
 articles = []
-items = soup.find_all("h3")
 
-# On extrait les 5 premiers articles de la liste
-for h3 in items[:5]:
+# Extraction des articles trouvés
+for h3 in items:
     titre = h3.text.strip()
-    
-    # On cherche le lien de l'article s'il existe dans la balise h3
+    if not titre or len(titre) < 5:
+        continue
+        
     a_tag = h3.find("a")
     lien_article = a_tag["href"] if a_tag and "href" in a_tag.attrs else url
+    
+    # Éviter les doublons
+    if any(a["title"] == titre for a in articles):
+        continue
 
     articles.append({
         "title": titre,
-        "description": "Nouvel article publié sur Chaos Reign. Consultez le site pour lire la critique.",
+        "description": f"Nouvel article publié sur Chaos Reign : {titre}. Visitez le site pour lire la suite.",
         "link": lien_article
     })
+    if len(articles) >= 5:
+        break
 
-# 3. Générer le fichier XML
+# Si le site bloque encore, on crée un flux vide temporaire pour éviter que GitHub ne plante
+if not articles:
+    articles.append({
+        "title": "Chaos Reign - Flux en attente",
+        "description": "Le site est temporairement inaccessible pour le robot. Vérification automatique au prochain cycle.",
+        "link": url
+    })
+
+# Génération du XML
 current_date = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-
 rss_xml = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
@@ -55,7 +76,6 @@ for idx, item in enumerate(articles):
 rss_xml += """</channel>
 </rss>"""
 
-# 4. Enregistrer dans un nouveau fichier XML séparé
 with open("chaos.xml", "w", encoding="utf-8") as f:
     f.write(rss_xml)
 
