@@ -2,7 +2,7 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 
-# 1. Récupérer le flux RSS officiel du Cinéma de Télérama
+# L'adresse magique qui regroupe TOUTES les rubriques du site
 url_source = "https://telerama.fr"
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
@@ -10,55 +10,54 @@ articles_gratuits = []
 
 try:
     response = requests.get(url_source, headers=headers, timeout=15)
-    soup = BeautifulSoup(response.text, "xml")  # On lit le format XML de Télérama
+    soup = BeautifulSoup(response.text, "xml")
     items = soup.find_all("item")
 
     for item in items:
-        title = item.title.text.strip() if item.title else "Article"
-        link = item.link.text.strip() if item.link else "https://telerama.fr"
+        title = item.title.text.strip() if item.title else ""
+        link = item.link.text.strip() if item.link else "https://www.telerama.fr"
         description = item.description.text.strip() if item.description else ""
 
-        # RUSE : Télérama ajoute souvent une mention ou coupe la description pour les abonnés.
-        # On vérifie aussi si le mot "abonné" ou "payant" se cache dans le texte.
+        # Détection du paywall
         est_payant = False
-        mots_cles_payants = ["réservé aux abonnés", "article abonnés", "payant"]
+        mots_cles_payants = ["réservé aux abonnés", "article abonnés", "abonnés", "payant"]
         
         for mot in mots_cles_payants:
             if mot in description.lower() or mot in title.lower():
                 est_payant = True
                 break
 
-        # Si l'article n'est pas détecté comme payant, on le garde !
-        if not est_payant:
+        # Si l'article est en libre accès, on l'engrange !
+        if not est_payant and title:
             articles_gratuits.append({
                 "title": title,
-                "description": description if description else "Consultez l'article gratuit sur Télérama.",
+                "description": description if description else "Consultez cet article gratuit sur le site.",
                 "link": link
             })
 
 except Exception as e:
-    print(f"Erreur lors de la lecture de Télérama : {e}")
+    print(f"Erreur de lecture générale : {e}")
 
-# Si aucun article gratuit n'a été trouvé (rare), on met un message informatif
+# Message de sécurité si l'actualité immédiate est 100% verrouillée
 if not articles_gratuits:
     articles_gratuits.append({
-        "title": "Télérama - Aucun nouvel article gratuit",
-        "description": "Tous les articles récents sont réservés aux abonnés.",
-        "link": "https://telerama.fr"
+        "title": "Télérama - En attente d'articles gratuits",
+        "description": "Aucun article en libre accès disponible dans le flux global à cet instant.",
+        "link": "https://www.telerama.fr"
     })
 
-# 2. Générer le fichier XML propre pour votre Feedbin
+# Création du fichier XML final
 current_date = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
 rss_xml = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>Télérama Cinéma - 100% Gratuit</title>
-    <link>https://telerama.fr</link>
-    <description>Flux filtré sans aucun article payant.</description>
+    <title>Télérama - L'Offre Gratuite</title>
+    <link>https://www.telerama.fr</link>
+    <description>Le flux de la Une filtré sans aucun article payant.</description>
     <lastBuildDate>{current_date}</lastBuildDate>
 """
 
-for item in articles_gratuits[:10]:  # On garde les 10 derniers gratuits
+for item in articles_gratuits[:20]: # On garde jusqu'à 20 articles gratuits
     rss_xml += f"""    <item>
         <title><![CDATA[{item['title']}]]></title>
         <link>{item['link']}</link>
@@ -70,8 +69,7 @@ for item in articles_gratuits[:10]:  # On garde les 10 derniers gratuits
 rss_xml += """</channel>
 </rss>"""
 
-# 3. Enregistrer le résultat dans votre espace public
 with open("telerama_gratuit.xml", "w", encoding="utf-8") as f:
     f.write(rss_xml)
 
-print("Flux Télérama gratuit généré avec succès !")
+print("Flux Télérama Global Gratuit généré avec succès !")
