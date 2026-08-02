@@ -57,7 +57,7 @@ current_date = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b 
 rss_xml = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>Sud Ouest - Landes &amp; Mont-de-Marsan</title>
+    <title>Sud Ouest - Landes Actu</title>
     <link>https://sudouest.frlandes/</link>
     <description>Actualités locales filtrées 100% gratuites.</description>
     <lastBuildDate>{current_date}</lastBuildDate>
