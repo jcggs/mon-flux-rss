@@ -4,11 +4,11 @@
     <title>Libération - Fil Chrono Personnel</title>
     <link>https://liberation.fr</link>
     <description>Flux d'actualité brute minute par minute.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 18:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:03:20 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[Libération - En attente de dépêches]]></title>
+        <title><![CDATA[Libération - En attente de nouvelles publications]]></title>
         <link>https://liberation.fr</link>
-        <description><![CDATA[Aucun article extrait pour le moment.]]></description>
+        <description><![CDATA[Le flux se synchronisera automatiquement dès l'apparition d'une nouvelle dépêche.]]></description>
         <guid isPermaLink="true">https://liberation.fr</guid>
     </item>
 </channel>
