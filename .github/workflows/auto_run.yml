@@ -8,29 +8,31 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt lxml
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt lxml
 
-    - name: Run Scrapers
-      run: |
-        python scraper.py
-        python telerama.py
-        python sudouest.py
+      - name: Run Scrapers
+        run: |
+          python scraper.py
+          python telerama.py
+          python sudouest.py
+          python radiofrance.py
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "GitHub Action Robot"
-        git config --global user.email "actions@github.com"
-        git add flux.xml telerama_gratuit.xml sudouest_gratuit.xml
-        git commit -m "Mise à jour des flux RSS propres" || exit 0
-        git push
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action Robot"
+          git config --global user.email "actions@github.com"
+          git add flux.xml telerama_gratuit.xml sudouest_gratuit.xml radiofrance.xml
+          git commit -m "Mise à jour des flux RSS propres" || exit 0
+          git push
