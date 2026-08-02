@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Liberation - Fil Chrono Personnel</title>
+    <link>https://www.liberation.fr/dernieres-nouvelles/</link>
+    <description>Flux d'actualite brute minute par minute.</description>
+    <lastBuildDate>Sun, 02 Aug 2026 19:25:13 GMT</lastBuildDate>
+    <item>
+        <title><![CDATA[Liberation - En attente de nouvelles publications]]></title>
+        <link>https://www.liberation.fr/dernieres-nouvelles/</link>
+        <description><![CDATA[Le flux se synchronisera automatiquement des l'apparition d'une nouvelle depeche.]]></description>
+        <guid isPermaLink="true">https://www.liberation.fr/dernieres-nouvelles/</guid>
+    </item>
+</channel>
+</rss>
