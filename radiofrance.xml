@@ -1,0 +1,792 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio France — Grand flux</title>
+    <link>https://www.radiofrance.fr/rss</link>
+    <description>Flux chronologique compilant les podcasts de France Inter, France Culture, France Musique, FIP et Mouv'.</description>
+    <language>fr</language>
+    <lastBuildDate>Sun, 02 Aug 2026 21:23:59 +0000</lastBuildDate>
+    <atom:link href="https://jcggs.github.io/mon-flux-rss/radiofrance.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>France Inter — La playlist Soundsystem du dimanche 02 août 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/la-playlist-soundsystem-du-dimanche-02-aout-2026-4529579</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 20:04:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/la-playlist-soundsystem-du-dimanche-02-aout-2026-4529579</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c9886324-ca25-48b9-83f8-5822ea4c72c5/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Rienzi fait son entrée à Bayreuth pour les 150 ans du Festival, sous la direction de Nathalie Stutzmann</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/rienzi-fait-son-entree-pour-les-150-ans-du-festival-de-bayreuth-avec-nathalie-stutzmann-9067591</link>
+      <description>Même après 150 ans d'histoire, Bayreuth continue de surprendre. Le festival inscrit pour la première fois "Rienzi" à son affiche : une production historique portée par Nathalie Stutzmann, à la tête, pour la troisième année consécutive, de l'Orchestre du Festival.</description>
+      <pubDate>Sun, 02 Aug 2026 18:00:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/rienzi-fait-son-entree-pour-les-150-ans-du-festival-de-bayreuth-avec-nathalie-stutzmann-9067591</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/42126dbe-c41d-41b3-a943-986ffddd8e84/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Incendie sur un site Seveso en Moselle : l'incendie est éteint, les 30 000 personnes sont déconfinées</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-dimanche-02-aout-2026-6103999</link>
+      <description>Après plus de quatre heures confinés chez eux, les quelques 30 000 habitants de cinq communes de Moselle au nord de Metz peuvent de nouveau sortir de chez eux. Il avaient été appelés à rester à l'intérieur car un incendie s'était déclaré sur le site classé Seveso de la société Safe à Gandrange.</description>
+      <pubDate>Sun, 02 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-dimanche-02-aout-2026-6103999</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/349476ef-b9c7-49ce-998a-d8de6e21ad27/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Les inédits de Raphaël Mezrahi en compagnie de Thomas Dutronc</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/les-archives-de-raphael-mezrahi/les-indedits-de-mezrahi-du-dimanche-02-aout-2026-1882799</link>
+      <description>Chaque dimanche d'août, Raphaël Mezrahi nous ouvre la porte de ses archives, passion de sa vie. Il prend possession des ondes et glisse à vos oreilles des bandes sonores rares, des pépites jamais diffusées, ou des fragments oubliés sur les étagères. Aujourd'hui, il est accompagné de Thomas Dutronc.</description>
+      <pubDate>Sun, 02 Aug 2026 15:04:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/les-archives-de-raphael-mezrahi/les-indedits-de-mezrahi-du-dimanche-02-aout-2026-1882799</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/19be04fa-c58a-47b0-975a-fd1b8c321ad8/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Jean Martinon, Henryk Szeryng et le National en Allemagne</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/les-grands-concerts-de-la-maison-de-la-radio-et-de-la-musique/jean-martinon-henryk-szeryng-et-le-national-en-allemagne-4660827</link>
+      <description>Aujourd’hui, deux concerts donnés en Allemagne par l’Orchestre National de France et Jean Martinon. Au programme, les Variations sur un thème de Haydn de Brahms, la Symphonie espagnole de Lalo ou encore la Rapsodie espagnole de Ravel.</description>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/les-grands-concerts-de-la-maison-de-la-radio-et-de-la-musique/jean-martinon-henryk-szeryng-et-le-national-en-allemagne-4660827</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/9e3fece4-55e2-48a5-89f2-57fd1d12183f/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Ouvrir les vannes 5/8 : Handicap ou pas cap</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/les-feuilletons-musicaux/ouvrir-les-vannes-serie-des-mfp-belgique-du-dimanche-02-aout-2026-1731830</link>
+      <description>Dans ce cinquième épisode, deux humoristes porteurs de handicap racontent comment ils transforment leur différence en matière comique, et déplacent la question habituelle : non pas "peut-on rire du handicap ?", mais pourquoi nous avons parfois tant de mal à le faire.</description>
+      <pubDate>Sun, 02 Aug 2026 11:17:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/les-feuilletons-musicaux/ouvrir-les-vannes-serie-des-mfp-belgique-du-dimanche-02-aout-2026-1731830</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/444d3130-e973-444c-9727-84bf628bb802/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — L'effet "madeleine de Proust" décrypté par des chercheurs</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-effet-madeleine-de-proust-decrypte-par-des-chercheurs-2617052</link>
+      <description>Des chercheurs du CNRS ont étudié l'effet "madeleine de Proust" et ont mis à jour le rôle de nos cellules olfactives au cours du temps. Ils publient le résultat de leurs recherches dans la revue Plos Biology.</description>
+      <pubDate>Sun, 02 Aug 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-effet-madeleine-de-proust-decrypte-par-des-chercheurs-2617052</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/797f0098-a5d1-4e6f-9259-9e3ebef29805/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Feux: pyromanes, incendiaires...qui sont-ils?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-magazine-du-week-end/feux-pyromanes-incendiaires-qui-sont-ils-8813226</link>
+      <description>Alors que les incendies et les feux de forêt se multiplient depuis le début de l’été 2026 dans toute la France et que le nombre d’interpellations pour des départs de feux volontaires ne cesse d’augmenter, qui sont ceux qui mettent le feu ?</description>
+      <pubDate>Sun, 02 Aug 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/le-magazine-du-week-end/feux-pyromanes-incendiaires-qui-sont-ils-8813226</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/37603594-d2ac-4cf8-a092-978947d22fff/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Un attentat dans un restaurant en plein cœur de Moscou fait trois morts et 21 blessés</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-02-aout-2026-3570258</link>
+      <description>Une femme est entrée avec un engin explosif dans un restaurant de Moscou où un haut gradé de l'armée de l'air fêtait son anniversaire. C'est le commandant Alexandre Tchaïko qui était visé selon plusieurs médias russes. Il est indemne, mais trois personnes sont mortes, 21 autres blessées.</description>
+      <pubDate>Sun, 02 Aug 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-dimanche-02-aout-2026-3570258</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ba1dd6eb-5af8-466e-bab2-b9b88579f4df/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Le Châtelet et les accomplissements</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/memoires-d-opera/le-chatelet-et-les-accomplissements-3988377</link>
+      <description>Après presque deux décennies passées à l’Opéra de Lyon, Jean-Pierre Brossmann quitte cette institution et revient dans ce qui est après tout sa ville de naissance : Paris.</description>
+      <pubDate>Sun, 02 Aug 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/memoires-d-opera/le-chatelet-et-les-accomplissements-3988377</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/38a6afcb-5780-4e87-ac64-3cb74060bc36/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — James Frey, Mathilde Beaussault, Jean-Christophe Rufin, Alexandra Matine, Gary Shteyngart... Que lire cette semaine ?</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-02-aout-2026-4893937</link>
+      <description>Cadavre mondain chez les ultra-riches, cité en sang, Napoléon à Sainte-Hélène, une enfant surdouée dans l'Amérique de demain, une influenceuse happée par elle-même... Cette semaine, Le Masque dissèque cinq romans entre satire sociale, polar noir et fable numérique.</description>
+      <pubDate>Sun, 02 Aug 2026 08:10:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-02-aout-2026-4893937</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c39d69b7-8b2c-434f-b220-9932dfef2d32/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — JOURNAL DE 09H00 du dimanche 02 août 2026</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-9h/journal-de-09h00-du-dimanche-02-aout-2026-7798339</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-9h/journal-de-09h00-du-dimanche-02-aout-2026-7798339</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c40977bc-bd76-466b-9912-39d4b0a1b7af/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — “Orinoco Flow” (1988) d'Enya</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/rencontre-avec-un-tube/rencontre-avec-un-tube-du-dimanche-02-aout-2026-1113482</link>
+      <description>Morgane Cadignan reçoit ce matin la discographie entière d'Enya, et plus particulièrement le tube "Orinoco Flow”. Avec Thomas Poitevin.</description>
+      <pubDate>Sun, 02 Aug 2026 06:55:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/rencontre-avec-un-tube/rencontre-avec-un-tube-du-dimanche-02-aout-2026-1113482</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/529f032c-72a2-42a2-b61b-aa391adc11fc/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — L’huîtrier pie ou la pie de mer</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/chroniques-du-bord-de-mer/chroniques-du-bord-de-mer-chronique-science-du-dimanche-02-aout-2026-8495954</link>
+      <description>Ce matin, en partenariat avec le Muséum national d'Histoire naturelle, Marc-André Selosse nous fait le portrait de l’huîtrier pie, qui répond également au doux nom de "la pie de mer".</description>
+      <pubDate>Sun, 02 Aug 2026 06:52:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/chroniques-du-bord-de-mer/chroniques-du-bord-de-mer-chronique-science-du-dimanche-02-aout-2026-8495954</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/45cd52f9-5edf-4aaf-9653-186fa2ea649b/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Simone de Beauvoir et Jean-Paul Sartre, entre amour nécessaire et amours contingentes</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/les-couple-scandaleux/les-couple-scandaleux-partenariat-avec-l-obs-du-dimanche-02-aout-2026-1640549</link>
+      <description>Ce matin, Arnaud Gonzague du Nouvel Obs vous emmène dans le Quartier latin, à Paris, au tout début des années 1930. Deux jeunes agrégés de philosophie s'y sont rencontrés – ils formeront le couple qui marquera une génération de littérature et de philosophie : Simone de Beauvoir et Jean-Paul Sartre.</description>
+      <pubDate>Sun, 02 Aug 2026 06:49:20 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/les-couple-scandaleux/les-couple-scandaleux-partenariat-avec-l-obs-du-dimanche-02-aout-2026-1640549</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/74d6a01c-6f8a-4c54-a54f-a43a39b01c95/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Spécial Festival des Arts de la Parole 1/5</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/solae-le-rendez-vous-protestant/special-festival-des-arts-de-la-parole-1-5-3011864</link>
+      <description>Faire langue commune : avec Hugo, un culte télévisé et la langue provençale</description>
+      <pubDate>Sun, 02 Aug 2026 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/solae-le-rendez-vous-protestant/special-festival-des-arts-de-la-parole-1-5-3011864</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/87f79b7b-7edf-4282-a6ad-fc8779245d77/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Présidentielle au Brésil : "Lula a toujours énormément de charisme mais il y a un peu de lassitude"</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20/l-invite-de-8h20-du-we-du-dimanche-02-aout-2026-8374138</link>
+      <description>À 8H20, Jean-Mathieu Albertini, journaliste et correspondant pour Radio France au Brésil, et Thomás Zicman de Barros est docteur associé au Centre de recherches politiques (CEVIPOF), Sciences Po Paris seront les invités de François Geffrier pour évoquer l'actualité du Brésil.</description>
+      <pubDate>Sun, 02 Aug 2026 06:19:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20/l-invite-de-8h20-du-we-du-dimanche-02-aout-2026-8374138</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/03d8a43f-fc0c-4529-96f0-587d9c781b81/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Élection de 1974 : «  le monopole du cœur » de Valéry Giscard d’Estaing lors du débat de l’entre deux tours</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/les-cles-de-l-elysee/les-cles-de-l-elysee-du-dimanche-02-aout-2026-5119871</link>
+      <description>Nous entrons bientôt en campagne pour la présidentielle et l'Histoire de la Vème république l'a démontré : il y a toujours des surprises. Qui va décrocher les clés de l'Elysée le 2 mai 2027 ? A travers les archives de l'INA, Fabienne Le Moal nous raconte ces moments clés depuis 1965.</description>
+      <pubDate>Sun, 02 Aug 2026 06:13:40 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/les-cles-de-l-elysee/les-cles-de-l-elysee-du-dimanche-02-aout-2026-5119871</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c095e864-cec3-4ac6-b658-786f652a7428/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Incendies : le gouvernement prépare un projet de loi sur la sécurité civile</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/incendies-le-gouvernement-prepare-un-projet-de-loi-sur-la-securite-civile-5997238</link>
+      <description>Le Premier ministre Sébastien Lecornu annonce, dans La Tribune Dimanche, la nomination prochaine d'un coordinateur national pour gérer la reconstruction des zones sinistrées par les incendies. Il appelle aussi à l'adoption d'une nouvelle loi sur la sécurité civile.</description>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/incendies-le-gouvernement-prepare-un-projet-de-loi-sur-la-securite-civile-5997238</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/e0692b16-3c15-4bdb-af3b-c6851fbb995b/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Les incendies sont globalement "sous contrôle" en France, annonce Sébastien Lecornu</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-dimanche-02-aout-2026-3357250</link>
+      <description>Les incendies sont globalement « sous contrôle » en France, indique ce dimanche matin le Premier ministre, Sébastien Lecornu, dans La Tribune Dimanche. En Gironde, le mégafeu est fixé et dans le Var, l'incendie est stabilisé.</description>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-dimanche-02-aout-2026-3357250</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/18ce7065-4fee-415c-a5c8-484ca8eb4961/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — N° 12 Sara NOVIKOFF (1949)</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/les-introuvables-de-bach/n0-12-sara-novikoff-1949-5315158</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 05:55:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/les-introuvables-de-bach/n0-12-sara-novikoff-1949-5315158</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/b6372a4c-96a3-40e0-a136-72d832a767f4/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Vanessa Paradis : "On découvre une chanson à l'état brut, sans artifice, elle est un peu fragile"</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50-du-week-end/l-invite-de-7h50-du-we-du-dimanche-02-aout-2026-6379102</link>
+      <description>À 7h50, Vanessa Paradis est l'invitée de François Geffrier à l'occasion de la sortie en version "deluxe" de son huitième album, "Le Retour des beaux jours", sorti en octobre.</description>
+      <pubDate>Sun, 02 Aug 2026 05:49:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50-du-week-end/l-invite-de-7h50-du-we-du-dimanche-02-aout-2026-6379102</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/48bcf79c-7cf3-4cc8-8d27-cb37ac608861/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Nous sommes dans Soleil Vert</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-metal-hurlant/partenariat-metal-hurlant-du-dimanche-02-aout-2026-2943130</link>
+      <description>Lloyd Chéry, rédacteur en chef adjoint de Métal Hurlant, a une révélation à nous faire. Ça y est, nous sommes dans Soleil Vert !</description>
+      <pubDate>Sun, 02 Aug 2026 05:19:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-metal-hurlant/partenariat-metal-hurlant-du-dimanche-02-aout-2026-2943130</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/cbf47fbe-e5ea-44a1-aba0-af81d198793b/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Dans les coulisses du chantier de la flèche de la Basilique-Cathédrale de Saint-Denis</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-grand-reportage-de-france-inter/dans-les-coulisses-du-chantier-de-la-fleche-de-la-basilique-cathedrale-de-saint-denis-3438830</link>
+      <description>Au milieu du XIXème siècle, la Basilique-Cathédrale de Saint-Denis a perdu sa flèche et sa tour nord, détruites après des intempéries. Presque deux siècles plus tard, un vaste chantier de reconstruction s'est engagé : France Inter vous fait découvrir les coulisses.</description>
+      <pubDate>Sun, 02 Aug 2026 05:12:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/le-grand-reportage-de-france-inter/dans-les-coulisses-du-chantier-de-la-fleche-de-la-basilique-cathedrale-de-saint-denis-3438830</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/499c229f-96b1-4884-835c-f8b34824f719/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Festival de la soupe, fête du cassoulet et course des 10 kilomelettes</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-de-du-dimanche-02-aout-2026-5822287</link>
+      <description>Ce matin, François Geffrier accorde 80" aux festivals et autres évènements insolites qui se déroulent partout en France, particulièrement l'été.</description>
+      <pubDate>Sun, 02 Aug 2026 05:10:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-de-du-dimanche-02-aout-2026-5822287</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/eb81fc70-1bf5-406f-9618-ed770c172290/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — JOURNAL DE 7H, du dimanche 02 août 2026</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-7-h/journal-de-7h-du-dimanche-02-aout-2026-6981653</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-7-h/journal-de-7h-du-dimanche-02-aout-2026-6981653</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+    </item>
+    <item>
+      <title>France Musique — Le Bach de l'été du dimanche 02 août 2026</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-bach-du-dimanche/le-bach-de-l-ete-du-dimanche-02-aout-2026-9968381</link>
+      <description>Dans la série « Bach et ses contemporains », aujourd’hui François Couperin (1668-1733) ; la pianiste russo-suisse Sara Novikoff (1949) dans « Les Introuvables de Bach » ; et une « Rencontre avec Olivier Spilmont, fondateur de l’ensemble Alia Mens » (émission n° 355 )</description>
+      <pubDate>Sun, 02 Aug 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-bach-du-dimanche/le-bach-de-l-ete-du-dimanche-02-aout-2026-9968381</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/97eea30e-a60e-4e7e-b6a3-4df2bc2c9f85/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Des annotations de Galilée découvertes dans un traité d’astronomie de Ptolémée</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-planete-des-sciences/la-planete-des-sciences-du-dimanche-02-aout-2026-6206243</link>
+      <description>Au sommaire de "la planète des sciences" : des annotations manuscrites de Galilée découvertes dans un traité d'astronomie de Ptolémée, une molaire préhistorique qui révèle les compétences de dentiste des néandertaliens et une aversion des punaises de lit qui nous avait jusqu'ici échappé...</description>
+      <pubDate>Sun, 02 Aug 2026 04:46:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/la-planete-des-sciences/la-planete-des-sciences-du-dimanche-02-aout-2026-6206243</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7f58555-df3e-42fd-879a-ce036e1372b8/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Le 6/9 du dimanche 02 août 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-6-9/le-6-9-du-dimanche-02-aout-2026-8192600</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/le-6-9/le-6-9-du-dimanche-02-aout-2026-8192600</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/5bbe020d-8166-4869-b6c1-24a84c2723b8/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — La playlist soundsystem du dimanche 02 août 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-dimanche-02-aout-2026-2962927</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 00:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-dimanche-02-aout-2026-2962927</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c9886324-ca25-48b9-83f8-5822ea4c72c5/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Les chroniques d'une célibataire du samedi 01 août 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/chroniques-d-une-celibataire/les-chroniques-d-une-celibataire-du-samedi-01-aout-2026-7475738</link>
+      <description />
+      <pubDate>Sat, 01 Aug 2026 21:10:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/chroniques-d-une-celibataire/les-chroniques-d-une-celibataire-du-samedi-01-aout-2026-7475738</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/b80d11b9-b7b8-4210-a4df-6d7f6a85997d/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Lucas Debargue et Victor Julien-Laferrière en duo à La Roque d'Anthéron</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/lucas-debargue-et-victor-julien-laferriere-en-duo-a-la-roque-d-antheron-3321183</link>
+      <description>Au Festival de La Roque d'Anthéron, Lucas Debargue et Victor Julien-Laferrière unissent leurs talents dans un programme dominé par le lyrisme, où le violoncelle et le piano se répondent, autour de Gabriel Fauré, César Franck, Nadia Boulanger et Edvard Grieg.</description>
+      <pubDate>Sat, 01 Aug 2026 18:00:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/lucas-debargue-et-victor-julien-laferriere-en-duo-a-la-roque-d-antheron-3321183</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/d0ff4d65-9983-44f3-95c8-2e054481cb02/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Expression directe du samedi 01 août 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/expression-directe/expression-directe-du-samedi-01-aout-2026-3961190</link>
+      <description />
+      <pubDate>Sat, 01 Aug 2026 17:54:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/expression-directe/expression-directe-du-samedi-01-aout-2026-3961190</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/9f02d76c-9c65-4e94-99f5-63a3946ec610/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Incendie dans le Var : une situation encore à "très haut risque" ce samedi soir</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-samedi-01-aout-2026-8489110</link>
+      <description>Dans le Var l'incendie ressuscité du Gros Bessillon continue de dévorer les forêts. "Le feu est toujours très actif" et les pompiers font face à  "beaucoup de reprises " selon les dernières informations de la Préfecture qui assure cependant que le dispositif pour contenir le feu fonctionne.</description>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-samedi-01-aout-2026-8489110</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/811fe518-f491-4920-b8c0-2671eeb55cc6/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Geneviève de Chambure, pionnière du baroque (4/4) : Les instruments en jeu</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/les-sagas-musicales/genevieve-de-chambure-pionniere-du-baroque-4-4-les-instruments-en-jeu-4097898</link>
+      <description>L’accès à la collection instrumentale Chambure - plus de 800 pièces ! - a transformé le jeu d'interprètes de musique ancienne tels que Jordi Savall et William Christie. Cet épisode réunit des témoignages et des archives inédites, et pose ses micros au musée de la Musique pour deux masterclasses.</description>
+      <pubDate>Sat, 01 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/les-sagas-musicales/genevieve-de-chambure-pionniere-du-baroque-4-4-les-instruments-en-jeu-4097898</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c51cd977-e89d-4ee7-ae46-41f2c80e063b/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Festival de Pâques de Deauville 2025 : Beethoven et Franck avec Adam Laloum, puis Webern, Schönberg et Mahler</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-concert-de-l-apres-midi/festival-de-paques-de-deauville-2025-beethoven-et-franck-avec-adam-laloum-puis-webern-schoenberg-et-mahler-8269502</link>
+      <description>Aujourd'hui rendez-vous dans le nord et en musique avec deux concerts du Festival de Pâques de Deauville : Adam Laloum et le Quatuor Hermès dans Beethoven et Franck, puis l'Atelier de musique dirigé par Dumoussaud dans Webern, Schönberg et Mahler, entre héritage romantique et modernité viennoise.</description>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-de-l-apres-midi/festival-de-paques-de-deauville-2025-beethoven-et-franck-avec-adam-laloum-puis-webern-schoenberg-et-mahler-8269502</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f7d89725-186b-4ef6-9817-9415152cc1ba/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Canicule : au chevet des personnes sans-abris</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-magazine-du-week-end/canicule-au-chevet-des-personnes-sans-abris-8704680</link>
+      <description>Alors que la rue continue à tuer autant l'été que l'hiver, le changement climatique accentue les risques pour les personnes sans domicile fixe et accroît la pression sur les associations d'aide aux sans-abris, confrontées à une situation d'urgence qui ne faiblit pas.</description>
+      <pubDate>Sat, 01 Aug 2026 10:46:15 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/le-magazine-du-week-end/canicule-au-chevet-des-personnes-sans-abris-8704680</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ec1e982d-43f1-4887-a5f2-98ead37e17d8/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — À Ceuta, la situation revient progressivement à la normale après l'afflux de dizaines de milliers de migrants marocains</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-samedi-01-aout-2026-5786632</link>
+      <description>Si la situation à Ceuta est presque revenue à la normale, la crise provoquée par ces images est elle loin d'être terminée. L'extrême droite et la droite européenne ont réagi.  L'Italie a annoncé l'exclusion de l'Espagne de l'espace Schengen.</description>
+      <pubDate>Sat, 01 Aug 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-samedi-01-aout-2026-5786632</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ef20a49d-2f9e-47c2-99a4-a7d673c2ae53/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Le programme classique de Jérôme Fréjaville : Coups de cœur</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/ete-classique/le-programme-classique-de-jerome-frejaville-coups-de-coeur-2320311</link>
+      <description>Une promenade à travers les siècles et les styles, où les œuvres célèbres côtoient des partitions plus rares. Une invitation à la découverte, guidée par le seul plaisir des rencontres musicales.</description>
+      <pubDate>Sat, 01 Aug 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/ete-classique/le-programme-classique-de-jerome-frejaville-coups-de-coeur-2320311</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/88e68f24-ff4b-4edc-b229-18389fbb72f5/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — JOURNAL DE 09H00 du samedi 01 août 2026</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-9h/journal-de-09h00-du-samedi-01-aout-2026-4947270</link>
+      <description />
+      <pubDate>Sat, 01 Aug 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-9h/journal-de-09h00-du-samedi-01-aout-2026-4947270</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c40977bc-bd76-466b-9912-39d4b0a1b7af/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Le Var confronté à la reprise du feu dans le massif du Gros Bessillon</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-samedi-01-aout-2026-4126900</link>
+      <description>1.000 hectares ont été parcourus par les flammes dans le Var. Après avoir été fixé mercredi, le feu a repris dans le massif du Gros Bessillon, attisé par le mistral.</description>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-samedi-01-aout-2026-4126900</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/a353a1f1-f8a4-4dee-8bad-39519b6fe16e/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — JOURNAL DE 7H, du samedi 01 août 2026</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-7-h/journal-de-7h-du-samedi-01-aout-2026-9534119</link>
+      <description />
+      <pubDate>Sat, 01 Aug 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-7-h/journal-de-7h-du-samedi-01-aout-2026-9534119</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+    </item>
+    <item>
+      <title>France Culture — Nuits Magnétiques - Ratonnade 5/5 : Utopie scélérate (1ère diffusion : 13/04/1979)</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/nuits-magnetiques-ratonnade-5-5-utopie-scelerate-1ere-diffusion-13-04-1979-3340205</link>
+      <description />
+      <pubDate>Fri, 31 Jul 2026 22:02:30 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/nuits-magnetiques-ratonnade-5-5-utopie-scelerate-1ere-diffusion-13-04-1979-3340205</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/9955e5e7-86e4-44f8-91c5-bbf300f8915f/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — 50 Nuances de miel du vendredi 31 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-vendredi-31-juillet-2026-1524710</link>
+      <description />
+      <pubDate>Fri, 31 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-vendredi-31-juillet-2026-1524710</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f673dd75-9a55-43eb-b330-6c94c4c9294e/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Au Festival de La Roque d'Anthéron, l'intégrale des Études de Philip Glass par Vanessa Wagner</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/au-festival-de-la-roque-d-antheron-l-integrale-des-etudes-de-philip-glass-par-vanessa-wagner-7816831</link>
+      <description>Au Festival de La Roque d'Anthéron, Vanessa Wagner relève le défi de l'intégrale des Études de Philip Glass. Un marathon pianistique qui révèle toute la richesse et l'évolution de l'univers du compositeur américain.</description>
+      <pubDate>Fri, 31 Jul 2026 18:00:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/au-festival-de-la-roque-d-antheron-l-integrale-des-etudes-de-philip-glass-par-vanessa-wagner-7816831</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/e5cec6f7-3cb0-4939-9d9b-aa8421ef4cba/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Sexualités : le désir est-il une affaire de génération ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/sexualites-le-desir-est-il-une-affaire-de-generation-8889614</link>
+      <description>Elle est au coeur de nos vies, mais continue obstinément d'échapper à nos tentatives pour la circonscrire. La sexualité, les sexualités, suscitent quantité de recherches, d'enquêtes et de publications. À notre tour, tentons de comprendre ses évolutions : le désir est-il une affaire de génération ?</description>
+      <pubDate>Fri, 31 Jul 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/sexualites-le-desir-est-il-une-affaire-de-generation-8889614</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/8b3dc537-ce3a-4fdd-9179-ff53d879874d/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — L'enclave espagnole de Ceuta face à un afflux de migrants</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-vendredi-31-juillet-2026-2573116</link>
+      <description>Ceuta, enclave espagnole au nord du Maroc, fait face à un afflux exceptionnel d'environ 60 000 migrants arrivés par la mer et la terre. Plus de 37 500 ont déjà été renvoyés au Maroc. Cette crise accentue les tensions diplomatiques en Europe et met Madrid sous pression.</description>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-vendredi-31-juillet-2026-2573116</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/4e192dbd-bd23-47d4-93c2-713b20c89699/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Prince, en majesté</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/retour-de-plage/prince-en-majeste-3026523</link>
+      <description>Le mois de juillet s’achève en beauté avec un Retour de Plage spécial Prince, un peu de plus de dix ans après sa disparition. De ses débuts, en 1978, jusqu’à sa mort prématurée en 2016, Prince n’aura cessé d’être créatif, phénoménal dans son abondante production et inventif jusqu’au bout…</description>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/retour-de-plage/prince-en-majeste-3026523</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/5fc0f463-4a0e-4b99-8f1f-2f552a452542/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Open Mike du vendredi 31 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-vendredi-31-juillet-2026-4748802</link>
+      <description />
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-vendredi-31-juillet-2026-4748802</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ecb4f490-97fb-4671-98a5-bd160e69e099/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Au Festival de Pâques de Deauville, Haydn, Mozart et Beethoven autour de Julien Chauvin</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-concert-de-l-apres-midi/au-festival-de-paques-de-deauville-haydn-mozart-et-beethoven-autour-de-julien-chauvin-2607498</link>
+      <description>À Deauville, le Festival de Pâques célèbre l'art de la musique de chambre avec quelques-uns des meilleurs chambristes de leur génération, réunis autour de Haydn, Mozart et Beethoven. Du trio au septuor, un parcours au cœur du classicisme viennois, porté par une distribution d'exception.</description>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-de-l-apres-midi/au-festival-de-paques-de-deauville-haydn-mozart-et-beethoven-autour-de-julien-chauvin-2607498</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/726af9b5-62d1-49cb-b318-3901b710a265/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Avoir raison avec... Mary Shelley  5/5 : Frankenstein, un monstre sacré</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/avoir-raison-avec/frankenstein-un-monstre-sacre-5605676</link>
+      <description>Publié anonymement en 1818, Frankenstein connaît un succès discret avant de devenir un mythe mondial grâce aux nombreuses adaptations théâtrales. Le cinéma achève d’en faire une icône pop : de Boris Karloff en 1931 aux relectures contemporaines, la créature ne cesse de changer de visage.</description>
+      <pubDate>Fri, 31 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/avoir-raison-avec/frankenstein-un-monstre-sacre-5605676</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c10cd5f0-25f0-420c-a8de-372f2b1b5519/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Bénin, l'art en partage : Les célébrations contemporaines des "Vodun Days"</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-son-des-francophones/les-celebrations-contemporaines-des-vodun-days-7221388</link>
+      <description>Le Vodun, né dans le golfe du Bénin et diffusé aux Amériques, a profondément influencé les arts et la culture. Au Bénin le gouvernement s’est engagé depuis 2016 dans une démarche ambitieuse de valorisation du patrimoine culturel, cultuel, et artistique de cette religion emblématique du pays.</description>
+      <pubDate>Fri, 31 Jul 2026 10:55:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/le-son-des-francophones/les-celebrations-contemporaines-des-vodun-days-7221388</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/4a172255-78ab-4b7a-b5c7-d696c5dc6240/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Le Théâtre du Peuple, "un lieu de mots qui s'inscrivent dans les corps : si on dit beauté, on fait beauté"</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/le-theatre-du-peuple-un-lieu-de-mots-qui-s-inscrivent-dans-les-corps-si-on-dit-beaute-on-fait-beaute-5407543</link>
+      <description>L'artiste-directrice du Théâtre du Peuple de Bussang dans les Vosges Julie Delille met en scène "Hériter des brumes", une pièce écrite par Alix Fournier-Pittaluga et Paul Francesconi qui retrace l'épopée de ce lieu et se questionne sur son caractère utopique pour mieux le rendre vivant.</description>
+      <pubDate>Fri, 31 Jul 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/le-theatre-du-peuple-un-lieu-de-mots-qui-s-inscrivent-dans-les-corps-si-on-dit-beaute-on-fait-beaute-5407543</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/61a0aad7-2be4-4c6c-aff4-b129fc78d25d/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — 40.000 migrants ont traversé la frontière entre le Maroc et Ceuta, du jamais vu depuis 2021</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-vendredi-31-juillet-2026-6296920</link>
+      <description>Madrid envoie de nouveau renforts policiers à Ceuta , où plus de 40 000 personnes sont entrées illégalement ces derniers jours. Du jamais vu depuis 2021. L'enclave , à la frontière entre le Maroc et l'Espagne, est au cœur d'une crise diplomatique à l'échelle européenne.</description>
+      <pubDate>Fri, 31 Jul 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-vendredi-31-juillet-2026-6296920</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ef1fb90d-d35e-458b-b666-42ad74e41584/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Natalie Dessay pour le Festival Lyrique en Mer</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/l-agenda-de-l-ete/natalie-dessay-pour-le-festival-lyrique-en-mer-3704205</link>
+      <description>Notre Tour de France nous emmène aujourd’hui en Normandie, sur la Côte Fleurie, à Saint-Ursanne, cité médiévale au bord du Doubs, puis à Belle-Île avec la soprano Natalie Dessay. Puis, direction Bayreuth pour le célèbre festival Wagner avant de revenir à Paris pour les Arènes lyriques de Montmartre</description>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/l-agenda-de-l-ete/natalie-dessay-pour-le-festival-lyrique-en-mer-3704205</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/9d3a5653-89ac-43e4-a0e1-991f107f573f/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Le programme classique de Jérôme Fréjaville : Tous en chœur</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/ete-classique/le-programme-classique-de-jerome-frejaville-tous-en-choeur-1087114</link>
+      <description>Une heure entièrement dédiée à la musique choral, du folklore irlandais aux Zigeunerlieder de Brahms, en passant par Bach, Poulenc et Rachmaninov, entre sacré, profane et traditions populaires.</description>
+      <pubDate>Fri, 31 Jul 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/ete-classique/le-programme-classique-de-jerome-frejaville-tous-en-choeur-1087114</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/d8c0f8f9-4105-4fd9-b935-df9b8a387532/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix - L'intégral du vendredi 31 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-vendredi-31-juillet-2026-5015549</link>
+      <description />
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-vendredi-31-juillet-2026-5015549</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Le duo Brady : "On a cherché de nouvelles façons de jouer du violoncelle, comme un laboratoire"</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/l-invite-e-du-jour/le-duo-brady-on-a-cherche-de-nouvelles-facons-de-jouer-du-violoncelle-comme-un-laboratoire-5139857</link>
+      <description>Depuis 16 ans, Michèle Pierre et Paul Colomb forment un duo de violoncelles ouvert à de multiples répertoires. Lauréats du dispositif Jazz Migration 2025, ils sont cet été sur la route des festivals avec leur 2e opus, La Vie d’après. Rencontre avec deux artistes qui rêvent et imaginent le futur.</description>
+      <pubDate>Fri, 31 Jul 2026 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/l-invite-e-du-jour/le-duo-brady-on-a-cherche-de-nouvelles-facons-de-jouer-du-violoncelle-comme-un-laboratoire-5139857</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/caeb28b7-30b0-4bca-9b7b-9a34f36b3e3b/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Le Festival international de piano de La Roque d'Anthéron avec Claire Désert</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-tour-de-france-des-festivals/le-festival-international-de-piano-de-la-roque-d-antheron-avec-claire-desert-4125932</link>
+      <description>À La Roque d'Anthéron, le parc du Château de Florans accueille la 46ème édition du festival international de piano. Un rendez-vous dirigé par un nouveau comité artistique, où les plus grands pianistes côtoient les talents émergents, comme récemment la jeune musicienne italienne Martina Meola.</description>
+      <pubDate>Fri, 31 Jul 2026 05:40:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-tour-de-france-des-festivals/le-festival-international-de-piano-de-la-roque-d-antheron-avec-claire-desert-4125932</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/9cfd2b02-e127-4f37-a6bb-0981ad6fc37c/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — La Matinale avec le duo Brady, à deux c'est mieux</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/musique-matin/la-matinale-avec-le-duo-brady-a-deux-c-est-mieux-6552701</link>
+      <description>Depuis 16 ans, Michèle Pierre et Paul Colomb forment un duo de violoncelles ouvert à de multiples répertoires. Lauréats du dispositif Jazz Migration 2025, ils sont cet été sur la route des festivals avec leur 2e opus, La Vie d’après. Rencontre avec un deux artistes qui rêvent et imaginent le futur.</description>
+      <pubDate>Fri, 31 Jul 2026 05:32:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/musique-matin/la-matinale-avec-le-duo-brady-a-deux-c-est-mieux-6552701</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/767e0cf9-df69-4415-a7e4-47c9252a09a6/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix du vendredi 31 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-vendredi-31-juillet-2026-7335552</link>
+      <description />
+      <pubDate>Fri, 31 Jul 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-vendredi-31-juillet-2026-7335552</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — 50 Nuances de miel du jeudi 30 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-jeudi-30-juillet-2026-4135754</link>
+      <description />
+      <pubDate>Thu, 30 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-jeudi-30-juillet-2026-4135754</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f673dd75-9a55-43eb-b330-6c94c4c9294e/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Jazz in Marciac : Marcus Miller + Avishai Cohen</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/jazz-in-marciac-marcus-miller-avishai-cohen-4981825</link>
+      <description>Jazz in Marciac avec deux grands bassistes : Avishai Cohen déploie son jazz aux influences méditerranéennes, avant Marcus Miller, entouré des compagnons de Miles Davis, pour célébrer le centenaire de la naissance du trompettiste.</description>
+      <pubDate>Thu, 30 Jul 2026 18:00:10 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-du-soir/jazz-in-marciac-marcus-miller-avishai-cohen-4981825</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/1a4a15ac-729e-418b-84e1-b95deabf09c6/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — "Say Yeah", la célébration gospel de Moses Boyd</title>
+      <link>https://www.radiofrance.fr/fip/say-yeah-la-celebration-gospel-de-moses-boyd-1443470</link>
+      <description>Six ans après "Dark Matter ", le batteur et producteur phare du jazz londonien prépare un nouvel album et partage un hymne euphorique aux extases collectives.</description>
+      <pubDate>Thu, 30 Jul 2026 15:16:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/say-yeah-la-celebration-gospel-de-moses-boyd-1443470</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/d8a42df6-bbc3-486a-a6a6-92c7f961634c/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Open Mike du jeudi 30 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-jeudi-30-juillet-2026-6316478</link>
+      <description />
+      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-jeudi-30-juillet-2026-6316478</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ecb4f490-97fb-4671-98a5-bd160e69e099/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — corto.alto toujours plus ambitieux sur "Some Small Fortune"</title>
+      <link>https://www.radiofrance.fr/fip/corto-alto-toujours-plus-ambitieux-sur-some-small-fortune-1979179</link>
+      <description>Le multi-instrumentiste et producteur de Glasgow Liam Shortall signe une fresque musicale captivante et s’évade toujours plus loin dans l’écriture exploratoire d’un jazz contemporain pétri  de tourbillons rythmiques et d’idées sonores.</description>
+      <pubDate>Thu, 30 Jul 2026 13:07:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/corto-alto-toujours-plus-ambitieux-sur-some-small-fortune-1979179</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/bf55202e-31cf-4321-820b-526990d341ca/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix - L'intégral du jeudi 30 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-jeudi-30-juillet-2026-7171974</link>
+      <description />
+      <pubDate>Thu, 30 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-jeudi-30-juillet-2026-7171974</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix du jeudi 30 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-jeudi-30-juillet-2026-1977453</link>
+      <description />
+      <pubDate>Thu, 30 Jul 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-jeudi-30-juillet-2026-1977453</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — 50 Nuances de miel du mercredi 29 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-mercredi-29-juillet-2026-4841657</link>
+      <description />
+      <pubDate>Wed, 29 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-mercredi-29-juillet-2026-4841657</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f673dd75-9a55-43eb-b330-6c94c4c9294e/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — "Whole Lotta Talkin'", la fantaisie surf rock de Lisa LeBlanc</title>
+      <link>https://www.radiofrance.fr/fip/whole-lotta-talkin-la-fantaisie-surf-rock-de-lisa-leblanc-5834450</link>
+      <description>Après avoir reçu les insignes de chevalière de l’Ordre des Arts et des Lettres en début d'année, l'artiste acadienne délaisse son chiac disco pour une réflexion rock en anglais illustrée par un clip drôlatique.</description>
+      <pubDate>Wed, 29 Jul 2026 15:29:31 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/whole-lotta-talkin-la-fantaisie-surf-rock-de-lisa-leblanc-5834450</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/82b96cf4-44db-4baf-9c29-0934ff7b63df/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Open Mike du mercredi 29 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-mercredi-29-juillet-2026-9058822</link>
+      <description />
+      <pubDate>Wed, 29 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-mercredi-29-juillet-2026-9058822</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ecb4f490-97fb-4671-98a5-bd160e69e099/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — "Répertoire", la lumière pop de Jonathan Personne</title>
+      <link>https://www.radiofrance.fr/fip/repertoire-la-lumiere-pop-de-jonathan-personne-4587078</link>
+      <description>Le multi-instrumentiste et chanteur du groupe Corridor présente son cinquième album solo, une fresque dream pop étincelante de groove et de ballades contemplatives aux influences multiples.</description>
+      <pubDate>Wed, 29 Jul 2026 13:44:11 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/repertoire-la-lumiere-pop-de-jonathan-personne-4587078</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f69e8e45-e1b5-4857-9a48-f552fb2da685/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — ¡Qué Bárbaro!</title>
+      <link>https://www.radiofrance.fr/fip/albums/que-barbaro-2026</link>
+      <description>Le trio d'Austin présente un premier album produit par Dan Auerbach, une bande son tejano explosive de la scène latino texane où s'entremêlent cumbia, soul psychédélique, surf rock texan et rythmes cubains, une Sélection Fip du mois de septembre.</description>
+      <pubDate>Wed, 29 Jul 2026 09:47:47 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/albums/que-barbaro-2026</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/25e2d7a7-3417-454b-862a-fb72b8cdf033/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix - L'intégral du mercredi 29 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-mercredi-29-juillet-2026-6605063</link>
+      <description />
+      <pubDate>Wed, 29 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-mercredi-29-juillet-2026-6605063</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix du mercredi 29 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mercredi-29-juillet-2026-6469406</link>
+      <description />
+      <pubDate>Wed, 29 Jul 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mercredi-29-juillet-2026-6469406</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — 50 Nuances de miel du mardi 28 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-mardi-28-juillet-2026-9029770</link>
+      <description />
+      <pubDate>Tue, 28 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-mardi-28-juillet-2026-9029770</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f673dd75-9a55-43eb-b330-6c94c4c9294e/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — “Bodies &amp; Ideas”, les voyages jazz libérateurs de Léon Phal</title>
+      <link>https://www.radiofrance.fr/fip/bodies-ideas-les-voyages-jazz-liberateurs-de-leon-phal-5176149</link>
+      <description>Trois ans après "Stress Killer", le saxophoniste et compositeur franco-suisse revient en quintet et poursuit ses explorations jazz sur un cinquième album aux vibrations en perpétuelles mutations.</description>
+      <pubDate>Tue, 28 Jul 2026 14:09:22 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/bodies-ideas-les-voyages-jazz-liberateurs-de-leon-phal-5176149</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/bb8ddd22-e9fa-4048-873c-ef6463f99509/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Open Mike du mardi 28 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-mardi-28-juillet-2026-7337285</link>
+      <description />
+      <pubDate>Tue, 28 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-mardi-28-juillet-2026-7337285</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ecb4f490-97fb-4671-98a5-bd160e69e099/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — Lambchop revient avec l'album "Punching the Clown"</title>
+      <link>https://www.radiofrance.fr/fip/lambchop-revient-avec-l-album-punching-the-clown-6079658</link>
+      <description>Kurt Wagner et son combo de Nashville s'inspirent d'un style de chant gospel connu sous le nom de "lined-out singing" sur un 17ᵉ album à la beauté folk épurée dont ils partagent le nouvel extrait "The New World Wave".</description>
+      <pubDate>Tue, 28 Jul 2026 09:33:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/lambchop-revient-avec-l-album-punching-the-clown-6079658</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/35033fbe-f133-4240-b0fa-1166ddfa2a97/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix - L'intégral du mardi 28 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-mardi-28-juillet-2026-6286220</link>
+      <description />
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-mardi-28-juillet-2026-6286220</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix du mardi 28 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mardi-28-juillet-2026-1106878</link>
+      <description />
+      <pubDate>Tue, 28 Jul 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mardi-28-juillet-2026-1106878</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — 50 Nuances de miel du lundi 27 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-lundi-27-juillet-2026-3021733</link>
+      <description />
+      <pubDate>Mon, 27 Jul 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-lundi-27-juillet-2026-3021733</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f673dd75-9a55-43eb-b330-6c94c4c9294e/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — GA-20 invite Charlie Musselwhite sur l'album "Blues Now"</title>
+      <link>https://www.radiofrance.fr/fip/ga-20-invite-charlie-musselwhite-sur-l-album-blues-now-7299704</link>
+      <description>En collaboration avec le bluesman vétéran du Mississippi, le trio powerfull de Boston signe un cinquième album studio dont il partage la ballade country-blues "I'll Change My Style".</description>
+      <pubDate>Mon, 27 Jul 2026 15:15:01 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/ga-20-invite-charlie-musselwhite-sur-l-album-blues-now-7299704</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/222efc6f-506c-486e-b5f0-f0041fdf6ec6/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Open Mike du lundi 27 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-lundi-27-juillet-2026-2897375</link>
+      <description />
+      <pubDate>Mon, 27 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-lundi-27-juillet-2026-2897375</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/ecb4f490-97fb-4671-98a5-bd160e69e099/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>FIP — Bachar Mar-Khalifé reprend "Les Amoureux qui passent" de Christophe</title>
+      <link>https://www.radiofrance.fr/fip/bachar-mar-khalife-reprend-les-amoureux-qui-passent-de-christophe-9408480</link>
+      <description>Le chanteur et multi-instrumentiste franco-libanais rend hommage au dandy pop sur l'album "Bachar Mar-Khalifé joue Christophe", dont il partage une reprise de la chanson de 1966.</description>
+      <pubDate>Mon, 27 Jul 2026 09:20:18 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/fip/bachar-mar-khalife-reprend-les-amoureux-qui-passent-de-christophe-9408480</guid>
+      <source url="https://www.radiofrance.fr/fip/rss">FIP</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/22261143-ac41-4464-9fad-c991b00958c1/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix - L'intégral du lundi 27 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-lundi-27-juillet-2026-3835540</link>
+      <description />
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix-l-integral/le-wake-up-mix-l-integral-du-lundi-27-juillet-2026-3835540</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Le Wake-up mix du lundi 27 juillet 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-lundi-27-juillet-2026-7993166</link>
+      <description />
+      <pubDate>Mon, 27 Jul 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-lundi-27-juillet-2026-7993166</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+  </channel>
+</rss>
