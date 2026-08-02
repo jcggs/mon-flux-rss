@@ -2,63 +2,68 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 
-# 1. Récupérer le flux RSS général de Sud Ouest
-url_source = "https://sudouest.fr"
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+# Configuration sur mesure ancrée sur votre lieu de vie
+flux_sources = {
+    "Mont-de-Marsan": "https://sudouest.fr",
+    "Landes": "https://sudouest.fr",
+    "Planete": "https://sudouest.fr",
+    "Eco": "https://sudouest.fr"
+}
 
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 articles_gratuits = []
 
-try:
-    response = requests.get(url_source, headers=headers, timeout=15)
-    soup = BeautifulSoup(response.text, "xml")
-    items = soup.find_all("item")
+# Le robot scanne vos 4 flux prioritaires
+for rubrique, url in flux_sources.items():
+    try:
+        response = requests.get(url, headers=headers, timeout=15)
+        soup = BeautifulSoup(response.text, "xml")
+        items = soup.find_all("item")
 
-    for item in items:
-        title = item.title.text.strip() if item.title else ""
-        link = item.link.text.strip() if item.link else "https://sudouest.fr"
-        description = item.description.text.strip() if item.description else ""
+        for item in items:
+            title = item.title.text.strip() if item.title else ""
+            link = item.link.text.strip() if item.link else "https://sudouest.fr"
+            description = item.description.text.strip() if item.description else ""
 
-        # Détection du paywall Sud Ouest
-        est_payant = False
-        mots_cles_payants = ["abonnés", "abonné", "premium", "payant"]
-        
-        # Sud Ouest marque souvent ses articles payants avec "Abonnés" au début de la description
-        for mot in mots_cles_payants:
-            if mot in description.lower() or mot in title.lower():
-                est_payant = True
-                break
+            # Tri strict du paywall
+            est_payant = False
+            mots_cles_payants = ["abonnés", "abonné", "premium", "payant"]
+            
+            for mot in mots_cles_payants:
+                if mot in description.lower() or mot in title.lower():
+                    est_payant = True
+                    break
 
-        # Si l'article est gratuit, on le garde
-        if not est_payant and title:
-            articles_gratuits.append({
-                "title": title,
-                "description": description if description else "Consultez cet article gratuit sur Sud Ouest.",
-                "link": link
-            })
+            # Validation de l'article en libre accès sans doublon
+            if not est_payant and title and not any(a["link"] == link for a in articles_gratuits):
+                articles_gratuits.append({
+                    "title": f"[{rubrique}] {title}",
+                    "description": description if description else "Consultez cet article gratuit.",
+                    "link": link
+                })
+    except Exception as e:
+        print(f"Erreur sur {rubrique} : {e}")
 
-except Exception as e:
-    print(f"Erreur de lecture Sud Ouest : {e}")
-
-# Message de sécurité si le flux est vide
+# Message de secours
 if not articles_gratuits:
     articles_gratuits.append({
-        "title": "Sud Ouest - En attente d'articles gratuits",
-        "description": "Aucun article en libre accès disponible dans le flux actuel.",
-        "link": "https://sudouest.fr"
+        "title": "Sud Ouest Landes - En attente d'articles gratuits",
+        "description": "Aucun article local en libre accès disponible à cet instant précis.",
+        "link": "https://sudouest.frlandes/"
     })
 
-# 2. Générer le fichier XML final
+# Génération du fichier XML final
 current_date = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
 rss_xml = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>Sud Ouest - 100% Gratuit</title>
-    <link>https://sudouest.fr</link>
-    <description>Fil d'actualité Sud Ouest filtré sans articles abonnés.</description>
+    <title>Sud Ouest - Landes &amp; Mont-de-Marsan</title>
+    <link>https://sudouest.frlandes/</link>
+    <description>Actualités locales filtrées 100% gratuites.</description>
     <lastBuildDate>{current_date}</lastBuildDate>
 """
 
-for item in articles_gratuits[:20]: # On garde les 20 derniers gratuits
+for item in articles_gratuits[:25]:
     rss_xml += f"""    <item>
         <title><![CDATA[{item['title']}]]></title>
         <link>{item['link']}</link>
@@ -73,4 +78,4 @@ rss_xml += """</channel>
 with open("sudouest_gratuit.xml", "w", encoding="utf-8") as f:
     f.write(rss_xml)
 
-print("Flux Sud Ouest gratuit généré !")
+print("Flux Sud Ouest Landes généré avec succès !")
