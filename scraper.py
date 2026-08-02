@@ -1,0 +1,33 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # S'exécute automatiquement tous les jours à 8h du matin
+  workflow_dispatch: # Permet aussi de le lancer manuellement en un clic
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Scraper
+      run: python scraper.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Action Robot"
+        git config --global user.name "actions@github.com"
+        git add flux.xml
+        git commit -m "Mise à jour du flux RSS" || exit 0
+        git push
