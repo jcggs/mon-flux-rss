@@ -5,8 +5,71 @@
     <link>https://www.radiofrance.fr/rss</link>
     <description>Flux chronologique compilant les podcasts de France Inter, France Culture, France Musique, FIP et Mouv'.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 03 Aug 2026 15:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:04:09 +0000</lastBuildDate>
     <atom:link href="https://jcggs.github.io/mon-flux-rss/radiofrance.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>France Culture — L'Europe veut-elle vraiment réguler l'intelligence artificielle ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-europe-veut-elle-reguler-l-intelligence-artificielle-3958260</link>
+      <description>Pouvons-nous vraiment réguler et encadrer l’intelligence artificielle ? On en parle ce lundi à l’occasion de l’entrée en vigueur de la plus grande partie de la loi européenne sur l’IA. Que va changer ce cadre ? Faut-il aller plus loin dans la réglementation ?</description>
+      <pubDate>Mon, 03 Aug 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-europe-veut-elle-reguler-l-intelligence-artificielle-3958260</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/0bbaf1ad-237f-43cb-9143-f0bc2b97f2ae/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Adeline Dieudonné, SMITH, Morgane Ortin et Samuel Etienne</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-mag-de-l-ete/le-mag-de-l-ete-du-lundi-03-aout-2026-7994454</link>
+      <description>Ce soir, une plongée dans l'univers de personnalités passionnées et curieuses qui poursuivent au fil de leur plume, appareil photo, écran d'ordinateur et de smartphone les débats de société qui nous traversent toutes et tous. Entre actualités, image et fiction, bienvenue dans le Mag de l'été.</description>
+      <pubDate>Mon, 03 Aug 2026 16:11:55 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/le-mag-de-l-ete/le-mag-de-l-ete-du-lundi-03-aout-2026-7994454</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/f596a2da-d2df-48d2-a4eb-dc5ec7dfef07/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Culture — Doctolib veut utiliser les données personnelles de ses usagers pour alimenter son IA</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/doctolib-va-donner-vos-informations-medicales-a-une-ia-5730888</link>
+      <description>Quand Doctolib s'intéresse à nos données médicales. La plateforme de prise de rendez-vous veut "améliorer les parcours de soins grâce à l'intelligence artificielle". L'usager peut s'y opposer, mais les médecins et chercheurs du collectif Interhop pointent un projet "problématique".</description>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/doctolib-va-donner-vos-informations-medicales-a-une-ia-5730888</guid>
+      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/2aea28b8-dc0b-40c6-8d2b-1769834287a9/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Musique — Clare Fischer : pianiste, compositeur et arrangeur (1/2)</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/retour-de-plage/clare-fischer-pianiste-compositeur-et-arrangeur-1-2-4368110</link>
+      <description>Pianiste, compositeur et arrangeur d’un rare raffinement, Clare Fischer fut l’un des pionniers du Latin Jazz, tissant dès les années 1950 des liens féconds entre jazz et musiques brésiliennes.</description>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/retour-de-plage/clare-fischer-pianiste-compositeur-et-arrangeur-1-2-4368110</guid>
+      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/a68e6f74-fd03-4e55-8e6a-dffd457b141b/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>Mouv' — Open Mike, le mix du lundi 03 août 2026</title>
+      <link>https://www.radiofrance.fr/mouv/podcasts/open-mike-le-mix/open-mike-le-mix-du-lundi-03-aout-2026-1029315</link>
+      <description />
+      <pubDate>Mon, 03 Aug 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/open-mike-le-mix/open-mike-le-mix-du-lundi-03-aout-2026-1029315</guid>
+      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/89be947e-7a8f-403e-99dd-3c937b34b49d/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — Islande : 21 militants anti-chasse à la baleine accusés de "violation du droit international" menacés d'expulsion</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/islande-21-militants-anti-chasse-a-la-baleine-accuses-de-violation-du-droit-international-menaces-d-expulsion-2635964</link>
+      <description>La police islandaise a demandé l'expulsion et une interdiction de retour sur le territoire islandais pour 21 militants retenus à Reykjavik depuis leur interpellation lors d'une action contre la chasse à la baleine.</description>
+      <pubDate>Mon, 03 Aug 2026 15:19:34 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/islande-21-militants-anti-chasse-a-la-baleine-accuses-de-violation-du-droit-international-menaces-d-expulsion-2635964</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/9713ac80-14e3-4ece-b1ef-436388b2fbb5/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
+    <item>
+      <title>France Inter — À Gaza, 13 personnes tuées dans des frappes israéliennes, malgré le plan de désarmement</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/a-gaza-13-personnes-tuees-dans-des-frappes-israeliennes-malgre-le-plan-de-desarmement-1792915</link>
+      <description>Après l'annonce d'un accord sur le désarmement du Hamas et sur le retrait israélien de la bande de Gaza, de nouvelles personnes ont été tuées ce dimanche dans des frappes israéliennes.</description>
+      <pubDate>Mon, 03 Aug 2026 14:34:50 +0000</pubDate>
+      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/a-gaza-13-personnes-tuees-dans-des-frappes-israeliennes-malgre-le-plan-de-desarmement-1792915</guid>
+      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
+      <enclosure url="https://www.radiofrance.fr/pikapi/images/0883d8d2-d0b6-41f5-9bf5-e700ffe28085/720x405?webp=false" type="image/jpeg" length="1337" />
+    </item>
     <item>
       <title>Mouv' — Open Mike du lundi 03 août 2026</title>
       <link>https://www.radiofrance.fr/mouv/podcasts/open-mike/open-mike-du-lundi-03-aout-2026-9452605</link>
@@ -143,9 +206,9 @@
       <enclosure url="https://www.radiofrance.fr/pikapi/images/3309bec8-7677-45a3-854c-a5d5b2a01cc1/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
-      <title>France Culture — Les Beatles, "Artistes de la métamorphose" : l'album "Revolver" fête ses 60 ans, Paul McCartney s'invente photographe</title>
+      <title>France Culture — Pacome Thiellement au sujet des Beatles "Ce sont des artistes de la métamorphose"</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/les-beatles-au-coeur-du-mois-d-aout-l-album-revolver-fete-ses-60-ans-paul-mccartney-s-invente-photographe-5391720</link>
-      <description>Il y a 60 ans, les Beatles sortaient "Revolver", album mythique et révolutionnaire. L'essayiste Pacôme Thiellement revient sur le destin des quatre musiciens de Liverpool. Puis, Rosie Broadley nous guide dans l'exposition "Eyes of the Storm" à Aix-en-Provence, à travers le regard de Paul McCartney.</description>
+      <description>Alors que le musée Granet consacre une exposition aux clichés de Paul McCartney, retour sur l'été 1966, date charnière pour les Beatles. L'essayiste Pacôme Thiellement examine l'empreinte poétique et symbolique laissée par le groupe.</description>
       <pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/les-beatles-au-coeur-du-mois-d-aout-l-album-revolver-fete-ses-60-ans-paul-mccartney-s-invente-photographe-5391720</guid>
       <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
@@ -314,24 +377,6 @@
       <enclosure url="https://www.radiofrance.fr/pikapi/images/5936829c-ba4c-4aad-9e5d-8a979a97df8b/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
-      <title>France Inter — Le Venezuela libéré… mais pas rendu</title>
-      <link>https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-lundi-03-aout-2026-1037777</link>
-      <description>Direction le Venezuela où des discussions s'ouvrent, cette semaine, entre le pouvoir en place et l’opposition pour parler de l’après-Maduro.</description>
-      <pubDate>Mon, 03 Aug 2026 06:16:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-lundi-03-aout-2026-1037777</guid>
-      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/3b2012cc-574f-4389-99f7-4832f5c81c62/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
-      <title>France Inter — Avalanche d'abandons : le Tour de France Femmes brûle-t-il les étapes ?</title>
-      <link>https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/avalanche-d-abandons-le-tour-de-france-femmes-brule-t-il-les-etapes-7393542</link>
-      <description>Huit coureuses ont déjà quitté le Tour de France féminin après seulement deux jours d'épreuve. Un constat qui souligne les disparités de préparation au sein des équipes dans un sport en pleine mutation.</description>
-      <pubDate>Mon, 03 Aug 2026 06:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/avalanche-d-abandons-le-tour-de-france-femmes-brule-t-il-les-etapes-7393542</guid>
-      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/1bc2e75e-abb9-4069-8759-9c43b2cf7dbe/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
       <title>France Culture — Le moment Clavicular ou l’illibéralisme banal</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/la-chronique-du-grand-continent/la-chronique-du-grand-continent-chronique-du-lundi-03-aout-2026-6141796</link>
       <description>.</description>
@@ -348,15 +393,6 @@
       <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/l-actu-du-jour/l-actu-du-jour-du-lundi-03-aout-2026-6930668</guid>
       <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
       <enclosure url="https://www.radiofrance.fr/pikapi/images/771447cf-2525-4a62-bb91-19467a04f362/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
-      <title>France Inter — Le journal de 08h00 du lundi 03 août 2026</title>
-      <link>https://www.radiofrance.fr/franceinter/podcasts/le-journal-de-8h/le-journal-de-08h00-du-lundi-03-aout-2026-5994800</link>
-      <description />
-      <pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/franceinter/podcasts/le-journal-de-8h/le-journal-de-08h00-du-lundi-03-aout-2026-5994800</guid>
-      <source url="https://www.radiofrance.fr/franceinter/rss">France Inter</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/e5acfc13-ba73-4019-a4d8-52a26d6f45fe/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
       <title>France Culture — Après l'incendie à Fontainebleau, des bénévoles viennent en aide aux animaux et réclament "un moratoire" de la chasse</title>
@@ -386,15 +422,6 @@
       <enclosure url="https://www.radiofrance.fr/pikapi/images/2c714942-e81f-4efa-8cf1-1f7c619d3fed/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
-      <title>France Culture — À Ceuta, crise migratoire, crise politique</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-lundi-03-aout-2026-5158450</link>
-      <description>La plus importante crise migratoire de Ceuta, enclave espagnole au nord du Maroc, continue d'occuper une large part des médias internationaux, entre passes d'armes politiques, analyses et recherches des disparus.</description>
-      <pubDate>Mon, 03 Aug 2026 05:33:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-lundi-03-aout-2026-5158450</guid>
-      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/304a33c2-a91a-4270-b9e4-1fb25d47c399/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
       <title>France Musique — La Matinale avec Lucile Boulanger</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/musique-matin/la-matinale-avec-lucile-boulanger-7280773</link>
       <description>À l'occasion de son concert au Festival du Périgord Noir, la gambiste Lucile Boulanger revient sur son parcours et défend une vision ouverte de la viole de gambe, nourrie autant par le patrimoine que par la création et le dialogue avec les autres arts.</description>
@@ -402,15 +429,6 @@
       <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/musique-matin/la-matinale-avec-lucile-boulanger-7280773</guid>
       <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
       <enclosure url="https://www.radiofrance.fr/pikapi/images/a802587d-a818-42a6-a944-6e60de44050e/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
-      <title>France Culture — Nos villes doivent-elles construire plus de refuges climatiques ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux/doit-on-creer-des-refuges-climatiques-2790369</link>
-      <description>Alors que les canicules sont amenées à se répéter, de plus en plus de villes aménagent et répertorient des “refuges climatiques”, ces espaces rafraîchis qui permettent de soulager les citoyens face aux températures extrêmes.</description>
-      <pubDate>Mon, 03 Aug 2026 05:17:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/franceculture/podcasts/les-enjeux/doit-on-creer-des-refuges-climatiques-2790369</guid>
-      <source url="https://www.radiofrance.fr/franceculture/rss">France Culture</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/181141a0-d777-4222-8277-469a8d83b5b8/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
       <title>Mouv' — Le Wake-up mix du lundi 03 août 2026</title>
@@ -500,15 +518,6 @@
       <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/le-concert-de-l-apres-midi/festival-de-paques-de-deauville-2025-beethoven-et-franck-avec-adam-laloum-puis-webern-schoenberg-et-mahler-8269502</guid>
       <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
       <enclosure url="https://www.radiofrance.fr/pikapi/images/f7d89725-186b-4ef6-9817-9415152cc1ba/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
-      <title>France Musique — Le programme classique de Jérôme Fréjaville : Coups de cœur</title>
-      <link>https://www.radiofrance.fr/francemusique/podcasts/ete-classique/le-programme-classique-de-jerome-frejaville-coups-de-coeur-2320311</link>
-      <description>Une promenade à travers les siècles et les styles, où les œuvres célèbres côtoient des partitions plus rares. Une invitation à la découverte, guidée par le seul plaisir des rencontres musicales.</description>
-      <pubDate>Sat, 01 Aug 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/francemusique/podcasts/ete-classique/le-programme-classique-de-jerome-frejaville-coups-de-coeur-2320311</guid>
-      <source url="https://www.radiofrance.fr/francemusique/rss">France Musique</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/88e68f24-ff4b-4edc-b229-18389fbb72f5/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
       <title>Mouv' — 50 Nuances de miel du vendredi 31 juillet 2026</title>
@@ -716,15 +725,6 @@
       <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mardi-28-juillet-2026-1106878</guid>
       <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
       <enclosure url="https://www.radiofrance.fr/pikapi/images/c7b98cea-3605-4af7-adf6-6467193d1d83/720x405?webp=false" type="image/jpeg" length="1337" />
-    </item>
-    <item>
-      <title>Mouv' — 50 Nuances de miel du lundi 27 juillet 2026</title>
-      <link>https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-lundi-27-juillet-2026-3021733</link>
-      <description />
-      <pubDate>Mon, 27 Jul 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.radiofrance.fr/mouv/podcasts/50-nuances-de-miel/50-nuances-de-miel-du-lundi-27-juillet-2026-3021733</guid>
-      <source url="https://www.radiofrance.fr/mouv/rss">Mouv'</source>
-      <enclosure url="https://www.radiofrance.fr/pikapi/images/f673dd75-9a55-43eb-b330-6c94c4c9294e/720x405?webp=false" type="image/jpeg" length="1337" />
     </item>
     <item>
       <title>FIP — GA-20 invite Charlie Musselwhite sur l'album "Blues Now"</title>
