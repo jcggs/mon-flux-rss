@@ -1,9 +1,13 @@
 name: Update RSS Feeds
 
-"on":
+on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+
+# ÉTAPE CLÉ : Donne l'autorisation à GitHub Actions d'écrire et modifier vos fichiers XML
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Version mise à jour v3 -> v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Version mise à jour v4 -> v5
         with:
           python-version: "3.10"
 
@@ -22,17 +26,19 @@ jobs:
         run: |
           pip install -r requirements.txt lxml
 
+      # Exécution sécurisée : même si un script échoue, les autres continuent
+      # et le commit final aura quand même lieu pour les fichiers réussis.
       - name: Run Scrapers
         run: |
-          python scraper.py
-          python telerama.py
-          python sudouest.py
-          python radiofrance.py
+          python scraper.py || echo "Échec scraper.py"
+          python telerama.py || echo "Échec telerama.py"
+          python sudouest.py || echo "Échec sudouest.py"
+          python radiofrance.py || echo "Échec radiofrance.py"
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action Robot"
           git config --global user.email "actions@github.com"
           git add flux.xml telerama_gratuit.xml sudouest_gratuit.xml radiofrance.xml
-          git commit -m "Mise à jour des flux RSS propres" || exit 0
+          git commit -m "Mise à jour des flux RSS propres [skip ci]" || exit 0
           git push
