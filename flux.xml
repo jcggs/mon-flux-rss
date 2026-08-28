@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 14:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:51:43 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Association Bigornette] Appel à textes - L'autre]]></title>
+        <title><![CDATA[[Association Dis petite, Gaëlle Lavisse, Laurent Orsucci] Appel à textes - Festival épistolaire]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Wed,26Aug</guid>
+        <guid isPermaLink="false">talp-0-Fri,28Aug</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Communauté de communes Pays de Lafrançaise, Association Confluences, DRAC Occitanie] Appel à candidatures - Résidence d'écriture en Occitanie]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Fri,28Aug</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Association Bigornette] Appel à textes - L'autre]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Fri,28Aug</guid>
     </item>
     <item>
         <title><![CDATA[[Club des Poètes de Marne-la-Vallée] Concours de poésie sur le thème du printemps des poètes 2026]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Wed,26Aug</guid>
+        <guid isPermaLink="false">talp-3-Fri,28Aug</guid>
     </item>
     <item>
         <title><![CDATA[[Revue Mœbius] Appel à textes]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Wed,26Aug</guid>
-    </item>
-    <item>
-        <title><![CDATA[[SPAC Société des Poètes et Artistes du Cameroun] Appel à textes et oeuvres artistiques - Revue internationale numérique Art et Vers n°37 4ème trimestre 2026]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Wed,26Aug</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Bibliothèque de Neuilly-Plaisance] Concours de nouvelles - 14ème édition]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Wed,26Aug</guid>
+        <guid isPermaLink="false">talp-4-Fri,28Aug</guid>
     </item>
 </channel>
 </rss>
