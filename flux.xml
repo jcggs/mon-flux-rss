@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:13:13 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Éditions Oneiroi] Appel à textes - Anthologie steampunk vol. 9]]></title>
+        <title><![CDATA[[Collectif POÉTISTHME] Appel à textes - Lettres à Frère Feu]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Wed,21Oct</guid>
+        <guid isPermaLink="false">talp-0-Thu,22Oct</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Eva Carreira pour la collection Lapus et bouche cousue des édiitons Tirage de Têtes - Master M2 Métiers du livre et de l'édition de l'Université Rennes 2] Appel à texte - Album jeunesse drôle (pour les 3-5 ans) sur les jeux du langage]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Thu,22Oct</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Éditions Oneiroi] Appel à textes - Anthologie steampunk vol. 9]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Thu,22Oct</guid>
     </item>
     <item>
         <title><![CDATA[[Médiathèque du Haut-Allier Margeride de Langogne] Concours de nouvelles et de dessins - Festival national de science-fiction Mycéliades 2027]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Wed,21Oct</guid>
+        <guid isPermaLink="false">talp-3-Thu,22Oct</guid>
     </item>
     <item>
         <title><![CDATA[[Bibliothèque François Mitterrand d'Ambarès-et-Lagrave] Concours de nouvelles]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Wed,21Oct</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Médiathèque de Bétheny] Concours de nouvelle - We Geek]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Wed,21Oct</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Association d'écriture créative La plume et le clavier à Nantes] Concours de nouvelles en présentiel - Les Noctamplumes]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Wed,21Oct</guid>
+        <guid isPermaLink="false">talp-4-Thu,22Oct</guid>
     </item>
 </channel>
 </rss>
