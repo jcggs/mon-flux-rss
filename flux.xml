@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 20:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:10:45 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Médiathèques de Colombes, Ville de Colombes] Concours de nouvelles 2026]]></title>
+        <title><![CDATA[[Association Les 3 frères de l'astrée] Concours de poésie - Elévation poétique]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Wed,28Oct</guid>
+        <guid isPermaLink="false">talp-0-Thu,29Oct</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Festival International du Film Fantastique de Gérardmer, Salon Le Grimoire] Concours de nouvelles fantastiques 2027]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Thu,29Oct</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Médiathèques de Colombes, Ville de Colombes] Concours de nouvelles 2026]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Thu,29Oct</guid>
     </item>
     <item>
         <title><![CDATA[[Muséum national d’Histoire naturelle] Concours d'écriture - Prix du Muséum littéraire]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Wed,28Oct</guid>
+        <guid isPermaLink="false">talp-3-Thu,29Oct</guid>
     </item>
     <item>
         <title><![CDATA[[Bibliothèque L’attire Lire de Châteauneuf sur Sarthe] Concours de nouvelles]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Wed,28Oct</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Les Éditions À contre temps, Étudiant·es du Master Création éditoriale multimédia de Sorbonne Université] Appel à textes - Roman collaboratif]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Wed,28Oct</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Association Le chant des sons Liverdun 54] Concours de nouvelles]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Wed,28Oct</guid>
+        <guid isPermaLink="false">talp-4-Thu,29Oct</guid>
     </item>
 </channel>
 </rss>
