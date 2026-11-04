@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 21:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:03:12 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Ellii] Concours d'écriture - Les Mots d’Ellii, 2e édition]]></title>
+        <title><![CDATA[[Association HER de FÊTES] Concours d'écriture - Concours de récits 2027]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Tue,03Nov</guid>
+        <guid isPermaLink="false">talp-0-Wed,04Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Rime academy] Appel à textes – Cendrillon]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Wed,04Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Ellii] Concours d'écriture - Les Mots d’Ellii, 2e édition]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Wed,04Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Rime academy] Appel à textes – Le Renard]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Tue,03Nov</guid>
+        <guid isPermaLink="false">talp-3-Wed,04Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Association Aventuriales] Appel à textes - Festival Les Aventuriales]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Tue,03Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Maison des Sciences de l'Homme de l'Université de Liège, Asbl MNEMA] Concours de nouvelles - Quelle nouvelle, citoyen·ne ? édition 2026-2027]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Tue,03Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Ville de Clamecy, Musée d'Art et d'Histoire Romain Rolland] Concours de nouvelles]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Tue,03Nov</guid>
+        <guid isPermaLink="false">talp-4-Wed,04Nov</guid>
     </item>
 </channel>
 </rss>
