@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 20:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:52:11 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Association Rencontres Européennes-Europoésie] Concours d'écriture - Concours Europoésie Unicef 2026-2027]]></title>
+        <title><![CDATA[[Association Livre comme l’air] Concours de nouvelles de Saint Pol 2026 2027]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Fri,13Nov</guid>
+        <guid isPermaLink="false">talp-0-Sat,14Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Ville de Senlis, Médiathèque de Senlis] Concours d'écriture 2026-2027]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Sat,14Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Association Rencontres Européennes-Europoésie] Concours d'écriture - Concours Europoésie Unicef 2026-2027]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Sat,14Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Maison d'édition associative Eddie Lestienne] Appel à textes pour le hors-série de Calibre douze]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Fri,13Nov</guid>
+        <guid isPermaLink="false">talp-3-Sat,14Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Fondation JM Bajen] Concours d'écriture - Concours Nouvel Auteur 2027]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Fri,13Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Ville de Soorts-Hossegor] Concours de nouvelles - Prix de la nouvelle 2027 du Salon du Livre de Soorts-Hossegor]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Fri,13Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Les Amis du Verbe] Concours de Poésie - Le Poème le plus long]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Fri,13Nov</guid>
+        <guid isPermaLink="false">talp-4-Sat,14Nov</guid>
     </item>
 </channel>
 </rss>
