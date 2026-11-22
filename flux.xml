@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 21:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:50:37 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Éditions Copie Gauche] Appel à textes - C'était Mieux Demain]]></title>
+        <title><![CDATA[[Association des Écrivains et Artistes Paysans] Concours de nouvelles - Prix Jean de La Brète]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Sat,21Nov</guid>
+        <guid isPermaLink="false">talp-0-Sun,22Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Éditions Copie Gauche] Appel à textes - C'était Mieux Demain]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Sun,22Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Revue L'encrier renversé, Communauté d'agglomération Castres-Mazamet, Crédit agricole Nord-Midi-Pyrénées, Lycée Borde-Basse de Castres] Concours de nouvelles - 39e Concours francophone de la nouvelle de L'encrier renversé]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Sat,21Nov</guid>
+        <guid isPermaLink="false">talp-2-Sun,22Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Audrey Mazelier - Master M2 Métiers du livre et de l'édition de l'Université Rennes 2] Appel à textes – Romance contemporaine]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Sat,21Nov</guid>
+        <guid isPermaLink="false">talp-3-Sun,22Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Colombus Voyages] Concours d’écriture Colombus Voyages - Ouvrez la porte à votre récit]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Sat,21Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Association Les Baladantes, Association Les nouveaux mondes] Concours de nouvelles 2026-2027]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Sat,21Nov</guid>
+        <guid isPermaLink="false">talp-4-Sun,22Nov</guid>
     </item>
 </channel>
 </rss>
