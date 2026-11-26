@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 21:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:31:52 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Commune de Loire-Authion, Réseau Médiathèque[S]), Centre national du livre] Appel à candidatures - Résidence d'écriture Polar 2028]]></title>
+        <title><![CDATA[[Fanzine Loute déroute] Appel à textes pour l’édition d’hiver du fanzine Loute déroute]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Wed,25Nov</guid>
+        <guid isPermaLink="false">talp-0-Thu,26Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Site La Zone] Appel à textes - Romance zonarde]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Thu,26Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Société des Auteurs du Poitou-Charentes] Concours d'écriture]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Thu,26Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Commune de Loire-Authion, Réseau Médiathèque[S]), Centre national du livre] Appel à candidatures - Résidence d'écriture Polar 2028]]></title>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-3-Thu,26Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Réseau des médiathèques DLVAgglo] Concours d'écriture L'Enfance au bout de la plume - Nuits de la lecture 2027]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Wed,25Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Association TrioZart] Concours de poésie]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Wed,25Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[SPAC Société des Poètes et Artistes du Cameroun] Appel à textes et oeuvres artistiques - Revue internationale numérique Art et Vers n°38 1 er trimestre 2027]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Wed,25Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Association Le Chat Pitre de Roquefeuil] Concours de nouvelles 2027 du Chat Pitre de Roquefeuil]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Wed,25Nov</guid>
+        <guid isPermaLink="false">talp-4-Thu,26Nov</guid>
     </item>
 </channel>
 </rss>
