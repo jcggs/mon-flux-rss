@@ -4,36 +4,36 @@
     <title>Textes à la pelle - Flux Personnalisé</title>
     <link>https://textes-a-la-pelle.fr</link>
     <description>Suivi automatisé des derniers concours d'écriture.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 22:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:13:55 GMT</lastBuildDate>
     <item>
-        <title><![CDATA[[Cercle de la Mer Lorient] Concours de nouvelles 2027]]></title>
+        <title><![CDATA[[Association Les Journées des Écritures de Cluny] Concours d'écriture de chansons - Festival Écritures, musique et chansons 2027]]></title>
         <link>https://textes-a-la-pelle.fr?id=0</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-0-Fri,27Nov</guid>
+        <guid isPermaLink="false">talp-0-Sat,28Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Médiathèque Marguerite Duras, Service culturel de Bessancourt] Concours de nouvelles 2027]]></title>
+        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-1-Sat,28Nov</guid>
+    </item>
+    <item>
+        <title><![CDATA[[Cercle de la Mer Lorient] Concours de nouvelles 2027]]></title>
+        <link>https://textes-a-la-pelle.fr?id=2</link>
+        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
+        <guid isPermaLink="false">talp-2-Sat,28Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Méloée Evin - Master 2 Métiers du livre et de l'édition à Rennes 2] Appel à texte de romans artistiques pour ados ou jeune adultes]]></title>
-        <link>https://textes-a-la-pelle.fr?id=1</link>
+        <link>https://textes-a-la-pelle.fr?id=3</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-1-Fri,27Nov</guid>
+        <guid isPermaLink="false">talp-3-Sat,28Nov</guid>
     </item>
     <item>
         <title><![CDATA[[Fanzine Loute déroute] Appel à textes pour l’édition d’hiver du fanzine Loute déroute]]></title>
-        <link>https://textes-a-la-pelle.fr?id=2</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-2-Fri,27Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Site La Zone] Appel à textes - Romance zonarde]]></title>
-        <link>https://textes-a-la-pelle.fr?id=3</link>
-        <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-3-Fri,27Nov</guid>
-    </item>
-    <item>
-        <title><![CDATA[[Société des Auteurs du Poitou-Charentes] Concours d'écriture]]></title>
         <link>https://textes-a-la-pelle.fr?id=4</link>
         <description><![CDATA[Date limite : Non spécifiée. Consultez le site pour plus de détails.]]></description>
-        <guid isPermaLink="false">talp-4-Fri,27Nov</guid>
+        <guid isPermaLink="false">talp-4-Sat,28Nov</guid>
     </item>
 </channel>
 </rss>
